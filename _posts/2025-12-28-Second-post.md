@@ -7,7 +7,7 @@ tags: [C++]
 # toc: true (Optional: false to hide the Table of Contents)
 ---
 
-I will be going through Abdul Bahri's Learn C++ from beginner to Advance. As a starting point, to be indoctinated to the C++ languauge. 
+I will be going through Abdul Bahri's Learn C++ from beginner to Advanced. As a starting point, to be indoctrinated to the C++ languauge. 
 
 First of lets talk about what advantages C++ holds over other langauges. 
 
