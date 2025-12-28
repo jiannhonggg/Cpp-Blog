@@ -1,9 +1,10 @@
 ---
 layout: post 
-title: "Hello World"
+title: "Third Post"
 date: 2025-12-28 10:00:00 +0800
-category: [C++]
-tags: [C++]
+category: [Machine Learning]
+tags: [Machine Learning, Fun Stuff]
+published: True
 # toc: true (Optional: false to hide the Table of Contents)
 ---
 
